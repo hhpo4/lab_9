@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+
+//Это учебная программа
 int main(void)
 {
     int a, b;
